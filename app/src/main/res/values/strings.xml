@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimeRegister</string>
+    <string name="anime_name">Anime Name</string>
+    <string name="anime_dialogue">Anime Dialogue</string>
+</resources>
